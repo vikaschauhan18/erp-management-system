@@ -161,3 +161,10 @@ Replace `YOUR-USERNAME` with your GitHub username. Never commit `.env` files, cr
 ## Author
 
 **Vikas Chauhan**
+
+## 🚀 Live Demo
+
+**ERP Management System**
+
+[🌐 Open Live Website](https://erp-management-frontend.onrender.com)
+
